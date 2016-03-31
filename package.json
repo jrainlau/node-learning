@@ -1,0 +1,24 @@
+{
+  "name": "node-learning",
+  "version": "1.0.0",
+  "description": "node-learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrainlau/node-learning.git"
+  },
+  "author": "jrainlau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrainlau/node-learning/issues"
+  },
+  "homepage": "https://github.com/jrainlau/node-learning#readme",
+  "devDependencies": {
+    "cheerio": "^0.20.0",
+    "eventproxy": "^0.3.4",
+    "superagent": "^1.8.3"
+  }
+}

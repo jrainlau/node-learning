@@ -1,5 +1,5 @@
 const fs = require('fs')
-var data = '今天天气有点6'
+var data = '今天天气有点666666'
 
 // 创建一个可以写入的流，写入到文件 output.txt 中
 var writerStream = fs.createWriteStream('./流/output.txt')
